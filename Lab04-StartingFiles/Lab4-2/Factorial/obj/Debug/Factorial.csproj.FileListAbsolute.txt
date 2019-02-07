@@ -1,0 +1,9 @@
+C:\Users\sebas\Documents\Lab04-StartingFiles\Lab4-2\Factorial\bin\Debug\Assignment3.exe
+C:\Users\sebas\Documents\Lab04-StartingFiles\Lab4-2\Factorial\bin\Debug\Assignment3.pdb
+C:\Users\sebas\Documents\Lab04-StartingFiles\Lab4-2\Factorial\obj\Debug\Factorial.csprojResolveAssemblyReference.cache
+C:\Users\sebas\Documents\Lab04-StartingFiles\Lab4-2\Factorial\obj\Debug\Factorial.Factorial.resources
+C:\Users\sebas\Documents\Lab04-StartingFiles\Lab4-2\Factorial\obj\Debug\Factorial.Properties.Resources.resources
+C:\Users\sebas\Documents\Lab04-StartingFiles\Lab4-2\Factorial\obj\Debug\Factorial.csproj.GenerateResource.Cache
+C:\Users\sebas\Documents\Lab04-StartingFiles\Lab4-2\Factorial\obj\Debug\Factorial.csproj.CoreCompileInputs.cache
+C:\Users\sebas\Documents\Lab04-StartingFiles\Lab4-2\Factorial\obj\Debug\Assignment3.exe
+C:\Users\sebas\Documents\Lab04-StartingFiles\Lab4-2\Factorial\obj\Debug\Assignment3.pdb
